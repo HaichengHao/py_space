@@ -1,5 +1,4 @@
-# hello 海程
-# 开发时间: 2022/2/17 16:27
+print("gitee test2 , 你在编辑器上看到这里时，你的拉取测试成功了")
 print("i will learn how to use git by pycharm")
 print("i will learn how to use git by pycharm02")
 print("conflict test")
