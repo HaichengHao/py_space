@@ -24,7 +24,7 @@ print('hello','world','python')
 print("hello\nworld")
 print("hello\tworld")
 print("helloooo\tworld")
-'''
+''' --结果--
 hello	world
 helloooo	world
 /t会生成四个制表位，不够则开辟
