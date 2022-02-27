@@ -27,7 +27,7 @@ print("helloooo\tworld")
 ''' --结果--
 hello	world
 helloooo	world
-/t会生成四个制表位，不够则开辟
+/t会生成四个制表位，不够则开辟新的位置
 '''
 print('hello\rworld')
 '''
@@ -48,6 +48,9 @@ hellworld
 # 两个位置可以表示4种状态，8bit=1byte，1024byte=1kb,1024kb=1mb,1024mb=1gb,1024gb=1tb
 # 8个位置可以表示256种状态
 print(chr(0b100111001011000))
+"""
+--结果--
+乘"""
 
 # 变量的定义和使用
 # name ='mariya'
