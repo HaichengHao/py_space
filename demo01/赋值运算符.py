@@ -26,3 +26,4 @@ print(a)
 print('---支持解包赋值---')
 a,b,c = 20,30,40
 print(a,b,c)
+
