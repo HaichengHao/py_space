@@ -3,7 +3,7 @@
 # pass语句
 # pass语句什么都不做，只是一个占位符，用在语法上需要语句的地方
 answer=input('您是会员吗?y/n')
-if answer=='y'
+if answer=='y':
     pass
 else:
     pass
