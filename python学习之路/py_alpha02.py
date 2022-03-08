@@ -52,7 +52,7 @@ print(float(s2),float(s3),float(ff),float(i))
 '''
 
 #python中的注释
-# 以’#‘号开头，知道换行结束
+# 以’#‘号开头，直到换行结束
 # 以''' '''一对三引号之间的内容多行注释
 # 声明注释，在文件开头加上声明注释，如’#coding:gbk (以gbk为编码格式)#coding:utf-8(以utf-8为编码格式)‘
 
