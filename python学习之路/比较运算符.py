@@ -41,6 +41,6 @@ print(lst1 is lst2) #False
 print(id(lst1))#1411115667456
 print(id(lst2))#1411116028352
 print(a is b) #True
-print(a is not b) #False ,因为a,b的id是不相等的
+print(a is not b) #False ,因为a,b的id是相等的
 print( lst1 is not lst2) #True
 #可以发现lst1 和 lst2的值相等，但id并不相等
